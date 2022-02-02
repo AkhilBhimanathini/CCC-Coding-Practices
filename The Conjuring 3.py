@@ -23,6 +23,8 @@ yes
 
 
 '''
+'''
+'''
 
 n=int(input())
 s=bin(n).replace("0b","")
